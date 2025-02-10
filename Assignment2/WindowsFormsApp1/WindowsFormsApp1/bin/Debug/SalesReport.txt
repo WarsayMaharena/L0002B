@@ -1,0 +1,7 @@
+
+Namn Persnr Distrikt Antal:
+ha, 1, 1, 40 artiklar
+h, 1, 1, 30 artiklar
+2 säljare har nått nivå 1: under 50 artiklar
+han, 1, 1, 190 artiklar
+1 säljare har nått nivå 3: 100-199 artiklar
